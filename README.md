@@ -65,16 +65,6 @@ I'm focused on improving my skills in:
 * Software architecture
 * Full-stack application development
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="./profile/stats.svg" width="48%" alt="GitHub Stats">
-<img src="./profile/top-langs.svg" width="48%" alt="Top Languages">
-
-</div>
 
 ---
 
