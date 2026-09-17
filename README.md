@@ -10,8 +10,8 @@ Currently working with the JavaScript/TypeScript ecosystem and expanding my skil
 
 ## 🧠 About Me
 
-* 💻 Focused on web development
-* ⚛️ Building applications with React and TypeScript
+* 💻 Systems Analysis and Development student
+* ⚛️ Developing applications with React and TypeScript
 * 🗄️ Working with PostgreSQL and Supabase
 * 🔧 Using Git and GitHub for version control
 * 🚀 Interested in full-stack development and software engineering
