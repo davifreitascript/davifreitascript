@@ -69,9 +69,12 @@ I'm focused on improving my skills in:
 
 ## 📊 GitHub Activity
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifreitascript\&show_icons=true\&hide_border=true\&theme=transparent)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davifreitascript\&layout=compact\&hide_border=true\&theme=transparent)
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats">
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages">
+
+</div>
 
 ---
 
